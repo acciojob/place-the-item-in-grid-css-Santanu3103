@@ -1,4 +1,8 @@
-
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .holder{
     display: grid;
     grid-template-columns: repeat(2,200px);
